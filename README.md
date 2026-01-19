@@ -56,7 +56,7 @@ Actively building projects to strengthen practical software development skills.
 
 - Email: se.lowellsantos@gmail.com
 - LinkedIn: [Lowell Santos](https://www.linkedin.com/in/lowell-santos-11a4b02bb/)  
-- Resume: [PDF Link](https://raw.githubusercontent.com/SE-Looweh05/resume/main/Lowell_Santos_Resume.pdf)  
+- Resume: Available upon request – feel free to email me for a copy 
 
 ---
 
