@@ -44,6 +44,24 @@ Actively building projects to strengthen practical software development skills.
 
 ---
 
+### 🌄 Hidden Ridge Foodpark Website (Web Development)
+
+![Hidden Ridge Website Preview](https://raw.githubusercontent.com/SE-Looweh05/Hidden-Ridge-Food-Park-Website/main/screenshots/1ss-main.png)
+
+- Designed and developed a website for Hidden Ridge Foodpark
+- Focus on clean UI, usability, and visual presentation
+- Created initial design and layout planning before full development
+
+Skills demonstrated:
+- Website layout design
+- UI/UX planning
+- Visual design and typography
+- Front-end project structuring
+
+🔗 [GitHub Repo]([https://github.com/SE-Looweh05/Hidden-Ridge-Food-Park-Website])
+
+---
+
 ## 🌱 Currently Learning
 
 - Advanced Python for software development  
