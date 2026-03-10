@@ -58,15 +58,7 @@ Skills demonstrated:
 - Visual design and typography
 - Front-end project structuring
 
-🔗 [GitHub Repo]([https://github.com/SE-Looweh05/Hidden-Ridge-Food-Park-Website])
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Python for software development  
-- Data Structures and Algorithms  
-- Machine Learning & Computer Vision
+🔗 [GitHub Repo](https://github.com/SE-Looweh05/Hidden-Ridge-Food-Park-Website)
 
 ---
 
