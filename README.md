@@ -1,50 +1,57 @@
 # Hi, I’m Lowell 👋
 
 **Registered Electronics Engineer transitioning into Software Development**  
-Passionate about Python, GUI development, and problem-solving.
-Actively building projects to strengthen practical software development skills.
+Focused on **Frontend Development, UI/UX Design, and AI-assisted workflows**  
+Actively building full-stack projects using React, Node.js, and modern tools.
 
 ---
 
 ## 🛠 Skills
 
-- Python  
-- GUI Development (Tkinter)  
-- Version Control (Git/GitHub)  
-- Layout & Design (Canva, Adobe Photoshop)  
-- Color Theory & Typography  
-- Debugging & Problem Solving  
+### 💻 Frontend Development
+- HTML, CSS, JavaScript  
+- React (Vite)  
+- Responsive Web Design  
+- UI/UX Design Principles  
+
+### ⚙️ Backend & Tools
+- Node.js, Express.js (REST API)  
+- Git & GitHub  
+- API Integration  
+
+### 🎨 Design & Workflow
+- Canva, Adobe Photoshop  
+- Layout Design, Color Theory, Typography  
+- AI-Assisted Development (ChatGPT, etc.)  
 
 ---
 
 ## 📌 Featured Projects
 
+### 🌄 Hidden Ridge Food Park (Full-Stack Web Application)
+
+![Hidden Ridge Website Preview](https://raw.githubusercontent.com/SE-Looweh05/Hidden-Ridge-Food-Park-Website/main/screenshots/1ss-main.png)
+
+- Developed a **responsive full-stack website** using **React (Vite), HTML, CSS, and JavaScript**
+- Designed UI/UX in **Canva** with strong visual hierarchy and branding
+- Built reusable components with **dynamic rendering** for food stalls
+- Implemented a **reservation system** with modal UI and API integration
+- Created an **admin panel** and integrated a **Node.js + Express REST API**
+- Enhanced user experience with interactive elements and **AI-assisted development tools**
+
+🔗 [GitHub Repo](https://github.com/SE-Looweh05/Hidden-Ridge-Food-Park-Website)
+
+---
+
 ### 📦 Inventory Management System (Python | GUI)
 
 ![Inventory Management System – GUI interface](https://raw.githubusercontent.com/SE-Looweh05/Inventory-Management-System/main/Screenshots/05%20-%20upload_image.png)
 
-- Desktop application to manage inventory and sales
-- Add, update, and delete inventory items; track stock and sales
-- Skills demonstrated: Python, GUI development, problem-solving
-- 🔗 [GitHub Repo](https://github.com/SE-Looweh05/Inventory-Management-System)
+- Developed a desktop application for managing inventory and sales  
+- Implemented CRUD operations for tracking stock and transactions  
+- Built using **Python (Tkinter)** with focus on usability and functionality  
 
----
-
-### 🌄 Hidden Ridge Foodpark Website (Web Development)
-
-![Hidden Ridge Website Preview](https://raw.githubusercontent.com/SE-Looweh05/Hidden-Ridge-Food-Park-Website/main/screenshots/1ss-main.png)
-
-- Designed and developed a website for Hidden Ridge Foodpark
-- Focus on clean UI, usability, and visual presentation
-- Created initial design and layout planning before full development
-
-Skills demonstrated:
-- Website layout design
-- UI/UX planning
-- Visual design and typography
-- Front-end project structuring
-
-🔗 [GitHub Repo](https://github.com/SE-Looweh05/Hidden-Ridge-Food-Park-Website)
+🔗 [GitHub Repo](https://github.com/SE-Looweh05/Inventory-Management-System)
 
 ---
 
@@ -52,24 +59,15 @@ Skills demonstrated:
 
 ![CS50 Game Screenshot](cs50_game.png)
 
-- Catch falling water drops using a bucket (left/right arrow keys)  
-- Game speed increases over time, challenging your reflexes  
-- Goal: Score 20 points with only 3 lives  
-- Skills demonstrated: Event-driven logic, problem-solving, debugging  
-- 🔗 [Play Demo](https://scratch.mit.edu/projects/1239081769) 
+- Built an interactive game using event-driven logic and increasing difficulty  
+- Strengthened fundamentals in **problem-solving and debugging**  
 
-**Notes & Credits:**  
-- Created as part of Harvard CS50 learning activities  
-- Game Design & Development: Lowell  
-- Platform: Scratch (MIT Media Lab)
+🔗 [Play Demo](https://scratch.mit.edu/projects/1239081769)
 
 ---
 
 ## 📫 Contact
 
-- Email: se.lowellsantos@gmail.com
+- Email: se.lowellsantos@gmail.com  
 - LinkedIn: [Lowell Santos](https://www.linkedin.com/in/lowell-santos-11a4b02bb/)  
-- Resume: Available upon request – feel free to email me for a copy 
-
----
-
+- Resume: Available upon request  
