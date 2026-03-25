@@ -22,7 +22,7 @@ Actively building full-stack projects using React, Node.js, and modern tools.
 ### 🎨 Design & Workflow
 - Canva, Adobe Photoshop  
 - Layout Design, Color Theory, Typography  
-- AI-Assisted Development (ChatGPT, etc.)  
+- AI-assisted development using ChatGPT and Claude for debugging, code generation, and UI/layout refinement  
 
 ---
 
