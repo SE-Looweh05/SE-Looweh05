@@ -33,15 +33,17 @@ Building real-world projects using React, Node.js, and cloud databases with end-
 ### 🌄 Hidden Ridge Food Park (Full-Stack Web App)
 ![Hidden Ridge Preview](https://raw.githubusercontent.com/SE-Looweh05/Hidden-Ridge-Food-Park-Website/main/screenshots/1-main.png)
 
-Full-stack restaurant booking system with live database integration.
+A full-stack restaurant reservation system with real-time database integration, admin management, and a responsive user experience.
 
-- Built with **React (Vite), Node.js, Express.js**
-- Designed UI/UX with **Canva-based layout planning**
-- Developed **dynamic food stall rendering system**
-- Implemented full **CRUD reservation system**
-- Integrated **Supabase PostgreSQL (live database sync)**
-- Created **admin dashboard with protected edit/delete actions**
-- Added input validation and improved UX feedback states
+- Built a modern React (Vite) frontend with reusable components and dynamic UI rendering  
+- Developed a full CRUD reservation system with form handling and loading states  
+- Implemented rate limiting to prevent spam reservations  
+- Created a protected admin panel with login authentication and edit/delete capabilities  
+- Integrated Supabase PostgreSQL for live data synchronization  
+- Built a REST API with validation and error handling using Node.js and Express.js  
+- Designed a responsive interface optimized for desktop, tablet, and mobile  
+- Added UI enhancements including animations, hover effects, and smooth transitions  
+- Deployed frontend on Vercel and backend on Render  
 
 🔗 [Live Demo](https://hidden-ridge-food-park-website.vercel.app)  
 🔗 [Source Code](https://github.com/SE-Looweh05/Hidden-Ridge-Food-Park-Website)
