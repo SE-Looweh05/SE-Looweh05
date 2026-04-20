@@ -1,71 +1,80 @@
 # Hi, I'm Lowell 👋
-**Registered Electronics Engineer transitioning into Software Development**  
-Focused on **Frontend Development, UI/UX Design, and AI-assisted workflows**  
-Actively building full-stack projects using React, Node.js, and modern tools.
+
+**Electronics Engineer transitioning into Software Development**  
+Focused on **Full-Stack Web Development, UI/UX Engineering, and modern web applications**  
+Building real-world projects using React, Node.js, and cloud databases with end-to-end functionality.
 
 ---
 
-## 🛠 Skills
+## 🛠 Tech Stack
 
 ### 💻 Frontend Development
 - HTML, CSS, JavaScript  
 - React (Vite)  
-- Responsive Web Design  
-- UI/UX Design Principles  
+- Responsive UI Design  
+- UI/UX Principles & Layout Systems  
 
-### ⚙️ Backend & Tools
-- Node.js, Express.js (REST API)  
-- PostgreSQL (Supabase)
+### ⚙️ Backend Development
+- Node.js, Express.js  
+- REST API Development (GET, POST, PUT, DELETE)  
+- PostgreSQL (Supabase)  
+- Authentication & Environment Variables  
+
+### 🧰 Tools & Workflow
 - Git & GitHub  
-- API Integration (REST — GET, POST, PUT, DELETE)
-
-### 🎨 Design & Workflow
-- Canva, Adobe Photoshop  
-- Layout Design, Color Theory, Typography  
-- AI-assisted development using ChatGPT and Claude for debugging, code generation, and UI/layout refinement  
+- Canva (UI/UX Prototyping)  
+- Adobe Photoshop  
+- AI-assisted development (ChatGPT, Claude) for debugging, refactoring, and UI optimization  
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🌄 Hidden Ridge Food Park (Full-Stack Web Application)
-![Hidden Ridge Website Preview](https://raw.githubusercontent.com/SE-Looweh05/Hidden-Ridge-Food-Park-Website/main/screenshots/1-main.png)
+### 🌄 Hidden Ridge Food Park (Full-Stack Web App)
+![Hidden Ridge Preview](https://raw.githubusercontent.com/SE-Looweh05/Hidden-Ridge-Food-Park-Website/main/screenshots/1-main.png)
 
-- Developed a **responsive full-stack website** using **React (Vite), Node.js, and Express.js**
-- Designed UI/UX in **Canva** with strong visual hierarchy and branding
-- Built reusable components with **dynamic rendering** for food stalls
-- Implemented a **full CRUD reservation system** (Create, Read, Update, Delete) with modal UI
-- Integrated a live **Supabase PostgreSQL** database — all changes sync in real time
-- Built an **admin panel** to view, edit, and delete reservations
-- Added **input validation** blocking negative values and zero for guest count
-- Enhanced user experience with dark modal styling and interactive elements
+Full-stack restaurant booking system with live database integration.
 
-🔗 [View Source Code](https://github.com/SE-Looweh05/Hidden-Ridge-Food-Park-Website)
+- Built with **React (Vite), Node.js, Express.js**
+- Designed UI/UX with **Canva-based layout planning**
+- Developed **dynamic food stall rendering system**
+- Implemented full **CRUD reservation system**
+- Integrated **Supabase PostgreSQL (live database sync)**
+- Created **admin dashboard with protected edit/delete actions**
+- Added input validation and improved UX feedback states
+
+🔗 [Live Demo](https://hidden-ridge-food-park-website.vercel.app)  
+🔗 [Source Code](https://github.com/SE-Looweh05/Hidden-Ridge-Food-Park-Website)
 
 ---
 
 ### 📦 Inventory Management System (Python | GUI)
-![Inventory Management System – GUI interface](https://raw.githubusercontent.com/SE-Looweh05/Inventory-Management-System/main/Screenshots/05%20-%20upload_image.png)
+![Inventory System](https://raw.githubusercontent.com/SE-Looweh05/Inventory-Management-System/main/Screenshots/05%20-%20upload_image.png)
 
-- Developed a desktop application for managing inventory and sales  
-- Implemented CRUD operations for tracking stock and transactions  
-- Built using **Python (Tkinter)** with focus on usability and functionality  
+Desktop inventory system for tracking stock and sales.
 
-🔗 [View Source Code](https://github.com/SE-Looweh05/Inventory-Management-System)
+- Built using **Python (Tkinter)**
+- Implemented full CRUD functionality
+- Focused on usability and system design fundamentals
+
+🔗 [Source Code](https://github.com/SE-Looweh05/Inventory-Management-System)
 
 ---
 
-### 🎮 Can You Score 20? (Scratch | Harvard CS50)
-![CS50 Game Screenshot](cs50_game.png)
+### 🎮 Can You Score 20? (Game Dev – CS50 Scratch)
+![CS50 Game](cs50_game.png)
 
-- Built an interactive game using event-driven logic and increasing difficulty  
-- Strengthened fundamentals in **problem-solving and debugging**  
+Interactive game built with event-driven logic and progressive difficulty.
+
+- Developed using **Scratch (Harvard CS50)**
+- Strengthened logic building and problem-solving skills
 
 🔗 [Play Demo](https://scratch.mit.edu/projects/1239081769)
 
 ---
 
 ## 📫 Contact
-- Email: se.lowellsantos@gmail.com  
-- LinkedIn: [Lowell Santos](https://www.linkedin.com/in/lowell-santos-11a4b02bb/)  
-- Resume: Available upon request
+
+- 📧 Email: se.lowellsantos@gmail.com  
+- 💼 LinkedIn: [Lowell Santos](https://www.linkedin.com/in/lowell-santos-11a4b02bb/)  
+- 📄 Resume: Available upon request  
