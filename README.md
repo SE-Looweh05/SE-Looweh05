@@ -1,30 +1,36 @@
 # Hi, I'm Lowell 👋
 
-**Electronics Engineer transitioning into Software Development**  
-Focused on **Full-Stack Web Development, UI/UX Engineering, and modern web applications**  
-Building real-world projects using React, Node.js, and cloud databases with end-to-end functionality.
+Electronics Engineer transitioning into Software Development  
+Focused on building full-stack web applications, backend systems, and data-driven solutions using modern web technologies.
+
+I enjoy developing end-to-end applications that combine frontend interfaces, backend APIs, and database systems with real-world functionality.
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Frontend Development
-- HTML, CSS, JavaScript  
-- React (Vite)  
-- Responsive UI Design  
-- UI/UX Principles & Layout Systems  
+- HTML, CSS, JavaScript (ES6+)
+- React (Vite)
+- Responsive Web Design
+- Component-based UI development
 
 ### ⚙️ Backend Development
-- Node.js, Express.js  
-- REST API Development (GET, POST, PUT, DELETE)  
-- PostgreSQL (Supabase)  
-- Authentication & Environment Variables  
+- Node.js, Express.js
+- REST API Development (CRUD operations)
+- PostgreSQL (Supabase)
+- Authentication basics & environment configuration
+
+### 🧠 Programming & Data
+- Python
+- Machine Learning (Scikit-learn)
+- Computer Vision (basic implementation)
+- Data-driven system design
 
 ### 🧰 Tools & Workflow
-- Git & GitHub  
-- Canva (UI/UX Prototyping)  
-- Adobe Photoshop  
-- AI-assisted development (ChatGPT, Claude) for debugging, refactoring, and UI optimization  
+- Git & GitHub
+- Vercel / Render (deployment)
+- AI-assisted development (ChatGPT, Claude) 
 
 ---
 
@@ -45,33 +51,39 @@ A full-stack restaurant reservation system with real-time database integration, 
 - Added UI enhancements including animations, hover effects, and smooth transitions  
 - Deployed frontend on Vercel and backend on Render  
 
-🔗 [Live Demo](https://hidden-ridge-food-park-website.vercel.app)  
-🔗 [Source Code](https://github.com/SE-Looweh05/Hidden-Ridge-Food-Park-Website)
+🔗 Live Demo: https://hidden-ridge-food-park-website.vercel.app  
+🔗 Source Code: https://github.com/SE-Looweh05/Hidden-Ridge-Food-Park-Website
 
 ---
 
-### 📦 Inventory Management System (Python | GUI)
+## 📦 Inventory Management System (Python | Tkinter | SQLite)
+
 ![Inventory System](https://raw.githubusercontent.com/SE-Looweh05/Inventory-Management-System/main/Screenshots/05%20-%20upload_image.png)
 
-Desktop inventory system for tracking stock and sales.
+Desktop inventory system for managing products, stock, and basic sales tracking.
 
-- Built using **Python (Tkinter)**
-- Implemented full CRUD functionality
-- Focused on usability and system design fundamentals
+### 🔧 Key Features
+- Full CRUD operations (Create, Read, Update, Delete)
+- Real-time stock tracking
+- GUI-based interface using Tkinter
+- SQLite database integration
 
-🔗 [Source Code](https://github.com/SE-Looweh05/Inventory-Management-System)
+🔗 Source Code: https://github.com/SE-Looweh05/Inventory-Management-System
 
 ---
 
-### 🎮 Can You Score 20? (Game Dev – CS50 Scratch)
+## 🎮 Can You Score 20? (CS50 Scratch Game)
+
 ![CS50 Game](cs50_game.png)
 
-Interactive game built with event-driven logic and progressive difficulty.
+Interactive logic-based game built as part of Harvard CS50 focusing on event-driven programming.
 
-- Developed using **Scratch (Harvard CS50)**
-- Strengthened logic building and problem-solving skills
+### 🔧 Key Features
+- Score-based progression system
+- Event-driven game mechanics
+- Conditional logic and state handling
 
-🔗 [Play Demo](https://scratch.mit.edu/projects/1239081769)
+🔗 Play Demo: https://scratch.mit.edu/projects/1239081769
 
 ---
 
