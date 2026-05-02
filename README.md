@@ -1,9 +1,12 @@
 # Hi, I'm Lowell 👋
 
-Electronics Engineer transitioning into Software Development  
-Focused on building full-stack web applications, backend systems, and data-driven solutions using modern web technologies.
+Licensed Electronics Engineer focused on Software Development
 
-I enjoy developing end-to-end applications that combine frontend interfaces, backend APIs, and database systems with real-world functionality.
+I specialize in building full-stack web applications, backend systems, and data-driven solutions using modern web technologies.
+
+I enjoy developing end-to-end applications that connect clean frontend interfaces, efficient backend APIs, and well-structured databases to solve real-world problems. My engineering background helps me design systems with strong logic, scalability, and reliability in mind.
+
+My interests include Full-Stack Development, system design, and AI/ML applications.
 
 ---
 
