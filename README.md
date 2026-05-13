@@ -44,15 +44,13 @@ My interests include Full-Stack Development, system design, and AI/ML applicatio
 
 A full-stack restaurant reservation system with real-time database integration, admin management, and a responsive user experience.
 
-- Built a modern React (Vite) frontend with reusable components and dynamic UI rendering  
-- Developed a full CRUD reservation system with form handling and loading states  
-- Implemented rate limiting to prevent spam reservations  
-- Created a protected admin panel with login authentication and edit/delete capabilities  
-- Integrated Supabase PostgreSQL for live data synchronization  
-- Built a REST API with validation and error handling using Node.js and Express.js  
-- Designed a responsive interface optimized for desktop, tablet, and mobile  
-- Added UI enhancements including animations, hover effects, and smooth transitions  
-- Deployed frontend on Vercel and backend on Render  
+- Full CRUD reservation system with form validation and loading states  
+- JWT-protected admin panel with edit/delete access  
+- Rate limiting to prevent spam reservations  
+- REST API built with Node.js and Express  
+- Supabase PostgreSQL integration for live data  
+- Responsive UI with animations and transitions  
+- Deployed using Vercel (frontend) and Render (backend)  
 
 🔗 Live Demo: https://hidden-ridge-food-park-website.vercel.app  
 🔗 Source Code: https://github.com/SE-Looweh05/Hidden-Ridge-Food-Park-Website
