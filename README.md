@@ -1,56 +1,67 @@
 # Hi, I'm Lowell 👋
 
-Licensed Electronics Engineer focused on Software Development
+Full-Stack Developer and Licensed Electronics Engineer (ECE) building modern web applications, backend APIs, and ML-powered systems.
 
-I specialize in building full-stack web applications, backend systems, and data-driven solutions using modern web technologies.
+I specialize in developing full-stack applications with responsive frontend interfaces, secure backend systems, and scalable database architectures using modern web technologies.
 
-I enjoy developing end-to-end applications that connect clean frontend interfaces, efficient backend APIs, and well-structured databases to solve real-world problems. My engineering background helps me design systems with strong logic, scalability, and reliability in mind.
+My engineering background helps me design systems with strong logic, maintainability, and real-world problem-solving in mind.
 
-My interests include Full-Stack Development, system design, and AI/ML applications.
+My interests include Full-Stack Development, Backend Engineering, System Design, and AI/ML applications.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### 💻 Frontend Development
-- HTML, CSS, JavaScript (ES6+)
-- React (Vite)
-- Responsive Web Design
-- Component-based UI development
+## 💻 Frontend
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js (Vite)
+- Responsive UI Development
+- Reusable Component Architecture
 
-### ⚙️ Backend Development
+## ⚙️ Backend
 - Node.js, Express.js
-- REST API Development (CRUD operations)
+- REST API Development
+- JWT Authentication & Protected Routes
+- Validation Middleware & Rate Limiting
+
+## 🗄 Database
 - PostgreSQL (Supabase)
-- Authentication basics & environment configuration
+- SQLite
 
-### 🧠 Programming & Data
+## 🧠 ML & Computer Vision
 - Python
-- Machine Learning (Scikit-learn)
-- Computer Vision (basic implementation)
-- Data-driven system design
+- Scikit-learn
+- Computer Vision
+- Data-Driven Systems
 
-### 🧰 Tools & Workflow
+## 🚀 Tools & Deployment
 - Git & GitHub
-- Vercel / Render (deployment)
-- AI-assisted development (ChatGPT, Claude) 
+- Vercel & Render
+- Docker (Basic)
+- CI/CD Concepts
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🌄 Hidden Ridge Food Park (Full-Stack Web App)
+## 🌄 Hidden Ridge Food Park (Full-Stack Reservation System)
+
 ![Hidden Ridge Preview](https://raw.githubusercontent.com/SE-Looweh05/Hidden-Ridge-Food-Park-Website/main/screenshots/1-main.png)
 
-A full-stack restaurant reservation system with real-time database integration, admin management, and a responsive user experience.
+Production-style full-stack reservation system with secure authentication, business-rule validation, and real-time PostgreSQL synchronization.
 
-- Full CRUD reservation system with form validation and loading states  
-- JWT-protected admin panel with edit/delete access  
-- Rate limiting to prevent spam reservations  
-- REST API built with Node.js and Express  
-- Supabase PostgreSQL integration for live data  
-- Responsive UI with animations and transitions  
-- Deployed using Vercel (frontend) and Render (backend)  
+### 🔧 Key Features
+- Full CRUD reservation system
+- JWT-protected admin dashboard
+- Validation middleware and rate limiting
+- REST API built with Node.js and Express.js
+- Real-time PostgreSQL integration via Supabase
+- Responsive UI across desktop, tablet, and mobile
+- Search, sorting, and reservation management tools
+- Cloud deployment using Vercel and Render
+
+### 🛠 Tech Stack
+React.js • Node.js • Express.js • PostgreSQL • Supabase • Vercel • Render
 
 🔗 Live Demo: https://hidden-ridge-food-park-website.vercel.app  
 🔗 Source Code: https://github.com/SE-Looweh05/Hidden-Ridge-Food-Park-Website
@@ -61,12 +72,13 @@ A full-stack restaurant reservation system with real-time database integration, 
 
 ![Inventory System](https://raw.githubusercontent.com/SE-Looweh05/Inventory-Management-System/main/Screenshots/05%20-%20upload_image.png)
 
-Desktop inventory system for managing products, stock, and basic sales tracking.
+GUI-based inventory management system developed using Python, Tkinter, and SQLite to streamline product tracking and reporting workflows.
 
 ### 🔧 Key Features
-- Full CRUD operations (Create, Read, Update, Delete)
-- Real-time stock tracking
-- GUI-based interface using Tkinter
+- Full CRUD operations
+- Input validation and image handling
+- Real-time inventory tracking
+- GUI-based desktop application
 - SQLite database integration
 
 🔗 Source Code: https://github.com/SE-Looweh05/Inventory-Management-System
@@ -77,7 +89,7 @@ Desktop inventory system for managing products, stock, and basic sales tracking.
 
 ![CS50 Game](cs50_game.png)
 
-Interactive logic-based game built as part of Harvard CS50 focusing on event-driven programming.
+Interactive logic-based game developed as part of Harvard CS50, focused on event-driven programming and conditional game logic.
 
 ### 🔧 Key Features
 - Score-based progression system
@@ -88,8 +100,19 @@ Interactive logic-based game built as part of Harvard CS50 focusing on event-dri
 
 ---
 
-## 📫 Contact
+# 📚 Research
 
-- 📧 Email: se.lowellsantos@gmail.com  
-- 💼 LinkedIn: [Lowell Santos](https://www.linkedin.com/in/lowell-santos-11a4b02bb/)  
-- 📄 Resume: Available upon request  
+Co-authored an IEEE-published research paper on machine learning and computer vision for non-destructive agricultural moisture detection systems.
+
+### 📄 Publication
+Design and Development of a Non-Destructive Feature-Based Multi-Commodity Moisture Content Sensor System Using Machine Learning and Computer Vision
+
+🔗 IEEE Xplore: https://ieeexplore.ieee.org/document/10774723
+
+---
+
+# 📫 Contact
+
+- 📧 Email: lwllsnts05@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/lowell-santos-11a4b02bb/
+- 🐙 GitHub: https://github.com/SE-Looweh05
