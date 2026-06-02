@@ -51,13 +51,14 @@ My interests include Full-Stack Development, Backend Engineering, System Design,
 Production-style full-stack reservation system with secure authentication, business-rule validation, and real-time PostgreSQL synchronization.
 
 ### 🔧 Key Features
-- Full CRUD reservation system
-- JWT-protected admin dashboard
+- Full CRUD reservation system with date/time scheduling and business hours enforcement
+- Automated email confirmation sent to guests via Resend API
+- JWT-protected admin dashboard with public view-only mode
 - Validation middleware and rate limiting
 - REST API built with Node.js and Express.js
 - Real-time PostgreSQL integration via Supabase
 - Responsive UI across desktop, tablet, and mobile
-- Search, sorting, and reservation management tools
+- Search, sorting, CSV export, and reservation management tools
 - Cloud deployment using Vercel and Render
 
 ### 🛠 Tech Stack
