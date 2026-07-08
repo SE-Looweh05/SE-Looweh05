@@ -65,7 +65,7 @@ Production-style full-stack reservation system with secure authentication, busin
 React.js • Node.js • Express.js • PostgreSQL • Supabase • Vercel • Render
 
 🔗 Live Demo: https://hidden-ridge-food-park-website.vercel.app  
-🔗 Source Code: https://github.com/SE-Looweh05/Hidden-Ridge-Food-Park-Website
+🔗 Repository: https://github.com/SE-Looweh05/Hidden-Ridge-Food-Park-Website
 
 ---
 
@@ -82,7 +82,7 @@ GUI-based inventory management system developed using Python, Tkinter, and SQLit
 - GUI-based desktop application
 - SQLite database integration
 
-🔗 Source Code: https://github.com/SE-Looweh05/Inventory-Management-System
+🔗 Repository: https://github.com/SE-Looweh05/Inventory-Management-System
 
 ---
 
